@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook kernel connection file
+*.json
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Python packaging files
+*.egg-info/
+dist/
+build/
